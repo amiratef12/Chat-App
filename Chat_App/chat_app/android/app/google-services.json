@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368918004370",
+    "project_id": "chat--app-dadf3",
+    "storage_bucket": "chat--app-dadf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368918004370:android:8582501c23ee776ae6dc4b",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWBnB6-_Z7GGHnvMjgwuK0ho-G6r_70DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
